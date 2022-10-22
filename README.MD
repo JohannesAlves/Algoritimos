@@ -1,3 +1,3 @@
-### Estudo sobre algorítimos
+# Estudo sobre algorítimos
 
 ## Livro: Entendendo algorítimos
